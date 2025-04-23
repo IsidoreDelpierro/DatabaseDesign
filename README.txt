@@ -40,6 +40,6 @@ NB:
 
 
 
-NB: I took the project a little beyong database design. So once you've successfully run scripts 1 to 5 you can stop if your interest doesn't go beyond database design. 
+NB: I took the project a little beyond database design. So once you've successfully run scripts 1 to 5 you can stop if your interest doesn't go beyond database design. 
 This pet project is a work-in-progress, so I welcome any suggestions on how to make it better. 
 
