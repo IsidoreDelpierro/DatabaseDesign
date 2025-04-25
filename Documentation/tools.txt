@@ -10,3 +10,12 @@ NB: Install it using all default settings. This is not best practice, but it is 
 2) Download SQL Server Management Studio (SSMS) from here 
 https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms#download-ssms 
 Install it as well 
+
+
+3) Download the AdventureWorks databases here 
+https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms 
+Scroll down, download all the files on the OLTP column and then restore them on your new instance of SQL Server 
+
+
+
+
